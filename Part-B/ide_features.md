@@ -2,19 +2,16 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+Completing my first programming assignment in an IDE was both challenging and rewarding. Since I have never programmed before, learning how to write, run, and test my code was completely outside my comfort zone. Three IDE features were syntax highlighting , the integrated terminal, and error detection. 
 
-TODO: Replace with your introduction here.
 
-## Feature 1 – TODO: Replace with name of your Feature1
+## Feature 1 - Syntax Highlighting 
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+Syntax highlighting was one of the IDE features that helped me the most as a beginner. This feature uses  different colors to separate parts of the code, such as keywords, variables, strings, and comments. Since I am learning what each part of Python code means, the different colors made the code easier for me to read and understand. While working on my name and age program, syntax highlighting also helped me notice when something did not look right. Instead of looking at one large block of plain text, I could visually separate the different parts of my code. This made writing and reviewing my program less overwhelming.
 
-TODO: Replace with your Feature 1 paragraph here.
+## Feature 2 - Integrated Terminal 
 
-## Feature 2 – TODO: Replace with name of your Feature2
-
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
+The integrated terminal was another IDE feature that helped me understand how programming works. The terminal allows me to run my Python program and see the results without leaving the IDE. While working on my name and age program, I used the terminal to run my code and check whether it produced the correct output. At first, typing commands into the terminal  was unfamiliar and little intimidating because I had never used one before. As I continued practicing, I started to understand that the terminal was simply a way for me to communicate instructions to the computer. Being able to write code, run it, see the results, and make corrections all in the same place made the progress easier to understand. For a beginning programers like me, the integrated terminal helped connect the code I was writing to what the computer actually did with it,  
 
 TODO: Replace with your Feature 2 paragraph here.
 
