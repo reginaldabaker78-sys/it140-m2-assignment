@@ -1,20 +1,20 @@
-"""TODO: Replace with a one-line summary of the program's purpose (<73 chars).
+"""The program calculates an approximate birth year.
 
 Input:
-    TODO: Replace with a major input, including its type and source.
-    TODO: Replace with another major input, or delete this TODO line.
-    TODO: Replace with another major input, or delete this TODO line.
+    The user's name is a srring that comes from the user.
+    The user's age is an integer that comes from the user.
+    The current calendar year is an integer that comes from the computer.
 
 Process:
-    TODO: Replace with a major processing step.
+    The program subtracts the user's age from the current year to get the approximate birth year.
 
 Output:
-    TODO: Replace with a major output, including its type and destination.
+    The program displays a string message with the user's name and approximate birth year on the console.
 
 Typical usage example:
-    TODO: Replace with the input prompt and original name-input example.
-    TODO: Replace with the input prompt and original age-input example.
-    TODO: Replace with the resulting output from those inputs.
+    What is your name? Mason
+    How old are you? 11
+    Hello Mason! You werew born in 2015.
 """
 # === Imports ===
 from datetime import date
