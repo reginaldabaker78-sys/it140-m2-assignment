@@ -15,18 +15,16 @@ The integrated terminal was another IDE feature that helped me understand how pr
 
 TODO: Replace with your Feature 2 paragraph here.
 
-## Feature 3 – TODO: Replace with name of your Feature3
+## Feature 3 – Error Detection
+Error detection was another IDE feature that helped me as  beginning programmer. When I first started writing Python code, seeing an error message could be frustrating because I did not always understand what I had done wrong. As I worked through my name and age program, I learned that these errors were actually helping point me toward a problem in my code. For example, if I made a mistake with syntax or entered something incorrectly, the IDE helped me recognize that something needed to be fixed. Instead of guessing where the problem was, I could go back to my code, make correction, and run the program again. This made debugging feel less intimidating and taught me that making a mistake is normal part of programming. Error detection will be especially helpful for me as I continue learning Python because it gives me a way to identify problems, understand my mistakes, and become more confident fixing my own code.
 
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
 
-TODO: Replace with your Feature 3 paragraph here.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+Overall, this assignment helped me become more comfortable using an IDE and showed me that programming is something I can learn with practice. At first, writing and running code was completely outside my comfort zone, but using features like syntax highlighting,the integrated terminal, and error detection made the process easier to understand. I learned that errors are not necessarily failures, but opportunities to figure out what went wrong and improve my code. As I continue Python and working toward my degree, I believe these IDE features will help me stay organized, troubleshoot problems, and become more confident writing code on my own. I still have a lot to learn, but this assignment showed me that I can work through problems one step at a time.  
 
-TODO: Replace with your conclusion here.
 
-## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+
+
